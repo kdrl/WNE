@@ -2,7 +2,7 @@ SGNS-WNE : The word-like n-gram embedding version of skip-gram model with negati
 =======================================================
 
 **SGNS-WNE** is an open source implementation of our framework to learn distributed representation of words by embedding word-like character n-grams, described in the following papers:
-- **Word-like character n-gram embedding** [Paper](http://noisy-text.github.io/2018/pdf/W-NUT201820.pdf)
+- **Word-like character n-gram embedding** [http://aclweb.org/anthology/W18-6120](http://aclweb.org/anthology/W18-6120)
 
 ## Requirements & Environment
 
